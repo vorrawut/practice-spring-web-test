@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: FX/master.yaml
+      relativeToChangelogFile: true
